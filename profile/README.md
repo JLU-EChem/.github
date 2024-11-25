@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub page of Professor Lin Haibo’s research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
 
+![Alt text](https://teachers.jlu.edu.cn/__local/5/63/69/8D1D7F8CFE199711F64D51FC1C2_9FE8EDDD_1785.jpg)
+
 ## **About the Team**
 
 Our team is a collaboration between Jilin University, industry partners, and international researchers, focused on innovative electrochemical solutions. We have established a comprehensive research platform, ranging from fundamental science to technology development and application. With a strong emphasis on the integration of carbon materials, advanced energy storage devices, and electrochemical systems, our work addresses key challenges in energy conversion, storage, and environmental sustainability.
@@ -50,6 +52,7 @@ We have established strong collaborations with leading academic institutions and
 We welcome collaboration with researchers, industry professionals, and innovators. Our GitHub organization hosts various open-source projects, research papers, and tools developed by our team. Feel free to explore our repositories, contribute to our ongoing research, or reach out for potential collaborations.
 
 Email: jluelectrochem@163.com
+
 Postal Code: 130012
 
 ---
