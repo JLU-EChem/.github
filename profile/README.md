@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub page of Professor Lin Haibo’s research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
 
-![Alt text](https://teachers.jlu.edu.cn/__local/5/63/69/8D1D7F8CFE199711F64D51FC1C2_9FE8EDDD_1785.jpg)
+![](https://teachers.jlu.edu.cn/__local/5/63/69/8D1D7F8CFE199711F64D51FC1C2_9FE8EDDD_1785.jpg)
 
 ## **About the Team**
 
