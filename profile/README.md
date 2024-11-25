@@ -1,3 +1,9 @@
+![alt text](image-2.png)
+<p align="center">
+   <img src="image-1.png" alt="alt text" width="100">
+   <img src="image.png" alt="alt text" width="100">
+</p>
+
 # **Lin Haibo's Research Team at Jilin University**
 
 Welcome to the official GitHub page of Professor Lin Haibo’s research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
