@@ -55,7 +55,10 @@ We have established strong collaborations with leading academic institutions and
 ### **Join Us**
 We welcome collaboration with researchers, industry professionals, and innovators. Our GitHub organization hosts various open-source projects, research papers, and tools developed by our team. Feel free to explore our repositories, contribute to our ongoing research, or reach out for potential collaborations.
 
-![alt text](Haibo_Lin.png)
+<p align="left">
+   <img src="Haibo_Lin.png" alt="alt text" height="200">
+   <img src="image-3.png" alt="alt text" height="200">
+</p>
 
 Email: jluelectrochem@163.com
 
