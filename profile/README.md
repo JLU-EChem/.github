@@ -4,9 +4,9 @@
    <img src="image.png" alt="alt text" width="100">
 </p>
 
-# **Lin Haibo's Research Team at Jilin University**
+# **Lin Haibo-Lin Nan's Research Team at Jilin University**
 
-Welcome to the official GitHub page of Professor Lin Haibo’s research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
+Welcome to the official GitHub page of Professor Lin Haibo-Lin Nan's research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
 
 ## **About the Team**
 
@@ -16,7 +16,7 @@ The team is composed of:
 
 - **4 young professors**
 - **3 engineers**
-- **20+ graduate students (PhD and Master’s levels)**
+- **20+ graduate students (PhD and Master's levels)**
 
 We are committed to driving forward both basic research and industrial applications, with a strong track record in technology transfer and commercialization.
 
