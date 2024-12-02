@@ -4,9 +4,9 @@
    <img src="image.png" alt="alt text" width="100">
 </p>
 
-# **Lin Haibo-Lin Nan's Research Team at Jilin University**
+# **Lab of Electrochemical Energy Conversion & Materials Engineering**
 
-Welcome to the official GitHub page of Professor Lin Haibo-Lin Nan's research team at Jilin University! We are a multidisciplinary team of scientists, engineers, and researchers working on cutting-edge electrochemical technologies for environmental governance, clean production, and energy conversion.
+Welcome to the official GitHub organization of the **Lab of Electrochemical Energy Conversion & Materials Engineering (LEECME)**! We are a multidisciplinary team of scientists, engineers, and researchers committed to pioneering advancements in electrochemical technologies. Our work focuses on environmental governance, clean production, and energy conversion. Explore our repositories to discover innovative solutions and collaborative projects driving a sustainable future.
 
 ## **About the Team**
 
